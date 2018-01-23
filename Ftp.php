@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author Matteo Ferrone <matteo.ferrone@gmail.com>
+ * @author Mattepuffo
  * @since 2017-03-20
  * @version 1.1
  */
